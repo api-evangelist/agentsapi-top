@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BridgeWatch provides on‑chain risk intelligence APIs for crypto developers, traders, and protocol teams. It offers address labeling, transaction explanations, funding‑cluster analysis, alert tracking, and SEC filing feeds on the Base blockchain, with transparent credit‑based pricing and webhook support.
+AgentsAPI.top provides on‑chain risk intelligence APIs, offering label look‑ups, transaction explanations, cluster detection, alert statistics, and tracking for CCTP. It operates a streamable MCP server with free anonymous access (7 calls per day per IP) and pay‑per‑call endpoints for deeper usage. The service is hosted at agentsapi.top and delivers JSON‑RPC and REST interfaces for blockchain analytics.
 
-**Areas:** Blockchain · Risk Intelligence · API · Crypto · On-chain Data
+**Areas:** Blockchain · Risk-Intelligence · API · On-chain · Crypto · Company
 
 ## agentsapi-top on APIs.io
 
@@ -110,26 +110,46 @@ Authentication, trust centre, and vulnerability disclosure.
 - [Agentsapi Top Domain Security](https://apis.io/security/agentsapi-top/agentsapi-top-domain-security/)
 - [Agentsapi Top Vulnerability Disclosure](https://apis.io/security/agentsapi-top/agentsapi-top-vulnerability-disclosure/)
 
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentsapi Top Scopes](https://apis.io/scopes/agentsapi-top/agentsapi-top-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentsapi Top Plans Pricing](https://apis.io/plans/agentsapi-top/agentsapi-top-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Agentsapi Top Rate Limits](https://apis.io/rate-limits/agentsapi-top/agentsapi-top-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://agentsapi.top/)
+- [Documentation](https://agentsapi.top/openapi.json)
+- [API reference](https://agentsapi.top/openapi.yaml)
 
 ## API Evangelist rating
 
-**Kin Score 33.6** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 35.5** — thin · rubric 0.25.0 · scored 2026-10-29
 
 | Facet | Score |
 |---|---|
-| Discoverability | 61.7 |
+| Discoverability | 65.0 |
 | Contract quality | 47.1 |
 | Contract governance | 79.1 |
 | Operational transparency | 10.5 |
-| Developer ergonomics | 18.3 |
+| Developer ergonomics | 23.1 |
 | Access clarity | 0.0 |
 
-**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+**Agent readiness 41.4** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -141,7 +161,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | verified |
-| Rate Limit Signal | — |
+| Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | — |
@@ -155,7 +175,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | — |
 
-**Regulatory alignment 22.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentsapi-top/](https://apis.io/providers/agentsapi-top/).
 
